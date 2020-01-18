@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# pinterested
+A rails project that will simulate pinterest
+>>>>>>> 70d29ede0782d33bae1ecead0a72cbd4b5282e39
