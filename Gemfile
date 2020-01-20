@@ -34,6 +34,8 @@ gem 'jquery-rails'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 # with images
 gem 'paperclip', '~> 6.1'
+# uploading images to AWS S3
+gem 'aws-sdk', '~> 3.0', '>= 3.0.1'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
