@@ -32,6 +32,8 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 # I think it is with logging. 
 gem 'devise', '~> 4.7', '>= 4.7.1'
+# with images
+gem 'paperclip', '~> 6.1'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
